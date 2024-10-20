@@ -1,2 +1,4 @@
-# todo-app-react-redux
-![todo-app-react-redux](/src/assets/github-cover.png)
+# todo app by using react, redux and tailwind.css
+# installation or setup of tailwinds css.
+![alt text](<Screenshot 2024-10-20 172549.png>)
+
